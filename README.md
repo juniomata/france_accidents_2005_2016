@@ -34,8 +34,6 @@ A crash outside town is nearly five times as deadly as one inside it, so the pri
 | 5 | **HOW & WHY** | Two in three deaths involve a drifting vehicle or one going straight; the lane drift alone precedes one death in five. |
 | 6 | **WHERE** | Rural crashes are nearly 5x deadlier than urban ones (13.6 vs 2.6 deaths per 100 crashes), the deadliest *départements* are all rural, and most rural roads are undivided two-lane *départemental* roads. |
 
-The diagnostic "WHY" stays as hedged sentences inside each chart narration (the data has no
-alcohol or speed fields).
 
 ## Deliverables
 
